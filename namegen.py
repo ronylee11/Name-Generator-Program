@@ -12,7 +12,7 @@ name = ''
 # name length
 # e = int(input("lenth: "))
 e = 10
-name = 'Rony ' + a[random.randint(0,25)].upper()
+name = 'Rony ' + a[random.randint(0,22)].upper()
 x = len(name)
 opt += name
 
